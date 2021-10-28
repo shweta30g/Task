@@ -152,28 +152,28 @@ function CreateTable() {
             {" "}
             <th>animal</th>
             <th>{count_of_animal}</th>
-            <th>{rateAnimal}</th>
+            <th>{rateAnimal} %</th>
             <th>{minutes}</th>
           </tr>
           <tr>
             {" "}
             <th>bird</th>
             <th>{count_of_Bird}</th>
-            <th>{rateBird}</th>
+            <th>{rateBird} %</th>
             <th>{minutes1}</th>
           </tr>
           <tr>
             {" "}
             <th>fish</th>
             <th>{count_of_Fish}</th>
-            <th>{rateFish}</th>
+            <th>{rateFish} %</th>
             <th>{minutes2}</th>
           </tr>
           <tr>
             {" "}
             <th>person</th>
             <th>{count_of_persons}</th>
-            <th>{ratePerson}</th>
+            <th>{ratePerson} %</th>
             <th>{minutes3}</th>
           </tr>
         </tbody>
