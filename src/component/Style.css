@@ -1,0 +1,26 @@
+* {
+  margin: auto;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th,
+td,
+p {
+  padding: 25px;
+  text-align: center;
+  font-size: 2rem;
+}
+h2 {
+  margin: 10px;
+  padding-left: 19%;
+}
+
+tr {
+  text-align: center;
+  font-size: 2rem;
+  border: 1px solid;
+}
