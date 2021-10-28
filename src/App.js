@@ -1,10 +1,11 @@
 import React from "react";
 import CreateTable from "./component/CreateTable";
+import Listing from "./component/Listing.jsx"
 
 function App() {
   return (
     <div className="App">
-      <CreateTable />
+      <Listing />
     </div>
   );
 }
